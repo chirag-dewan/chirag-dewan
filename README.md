@@ -1,26 +1,58 @@
-# Chirag Dewan
+<div align="center">
 
-> Breaking AI systems to make them safer.
+```
+   ┌─────────────────────────────────────────┐
+   │  $ whoami                               │
+   │  > chirag dewan                         │
+   │  $ ./current_objective.sh               │
+   │  > breaking AI. responsibly.            │
+   └─────────────────────────────────────────┘
+```
 
-I work on **AI security and red teaming** — probing language models, agents, and AI-powered infrastructure for the failure modes that don't show up in benchmarks. Adversarial prompting, jailbreaks, prompt injection, model extraction, multi-turn manipulation, and the messy intersection of AI behavior with real-world security controls.
+</div>
 
----
-
-### What I'm focused on
-
-- **Adversarial evaluation** of frontier models — building harnesses, attack libraries, and reproducible test suites
-- **Agentic system red teaming** — tool-use exploitation, indirect prompt injection, privilege escalation through AI intermediaries
-- **Detection engineering for AI workloads** — finding the signal when models, not humans, are the attack surface (or the attacker)
-- **Bridging classical offensive security with AI safety** — bringing the rigor of pentesting and CTI to a field that still treats red teaming as a vibe
-
-### How I work
-
-I build things to learn them. Most of what I'm exploring ends up as code, write-ups, or evaluation tooling rather than slide decks. I care about reproducibility, real data over toy datasets, and honest reporting of what does and doesn't work.
-
-### Background
-
-Offensive security researcher by training — zero-day discovery, weaponized PoCs, and threat intel before pivoting fully into AI security. The attacker mindset transfers; the targets just got weirder.
+```python
+class Chirag:
+    role     = "AI Security Researcher"
+    focus    = "red teaming LLMs, agents, and the stuff built on top"
+    method   = "attacker mindset + reproducible evals"
+    status   = "probing models until they confess"
+```
 
 ---
 
-**Reach me:** [chirag0728@gmail.com](mailto:chirag0728@gmail.com) · [cdewan.me](https://cdewan.me)
+### 🎯 currently hunting
+
+```diff
++ jailbreaks that survive RLHF
++ indirect prompt injection in agentic systems
++ tool-use exploitation & privilege escalation via AI
+- benchmarks that pretend models are safe
+```
+
+### 🧪 the lab
+
+| | |
+|---|---|
+| 🔴 adversarial prompting | building attack libraries that don't suck |
+| 🤖 agent red teaming | when the AI has hands, what does it grab? |
+| 📡 detection eng for AI | catching models behaving badly at scale |
+| 🧠 attacker → defender loop | break it, document it, defend against it |
+
+### 📍 coordinates
+
+```
+location  ▸ dallas, tx
+prev      ▸ offensive security @ raytheon BBN (zero-days, ICS, PoCs)
+now       ▸ AI security & red teaming
+```
+
+---
+
+<div align="center">
+
+**`reach`** · [chirag0728@gmail.com](mailto:chirag0728@gmail.com) · [cdewan.me](https://cdewan.me)
+
+*"the model is not the system. the system is the attack surface."*
+
+</div>
